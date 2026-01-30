@@ -3,8 +3,6 @@ I am a doctoral student at the École Normale Supérieure de Lyon, specializing 
 
 Before beginning my PhD, I completed a Master's degree in Networking and Security and worked as a research engineer at the École Normale Supérieure de Lyon, where I conducted empirical studies on the network performance of IoT devices.
 
-My approach combines rigorous theoretical foundations with practical applications, always considering the societal impact of the technologies we create. I am passionate about making the Internet more transparent and respectful of users' privacy.
-
 More details on my website: [https://augustinlaouar.com](https://augustinlaouar.com)
 
 Feel free to connect!
